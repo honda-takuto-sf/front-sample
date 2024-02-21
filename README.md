@@ -26,7 +26,10 @@ Creating a new Next.js app in /app.
 ```
 
 ## 手順
-
+### git clone
+```
+https://github.com/honda-takuto-sf/front-sample.git
+```
 ### コンテナの起動
 
 ```
