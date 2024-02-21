@@ -1,5 +1,4 @@
-# front-sample
-アプリ作成時以下を設定<br>
+## アプリ作成時以下を設定(要検討)
 Would you like to use ESLint with this project?<br>
 →Yes<br>
 Would you like to use Tailwind CSS with this project?<br>
