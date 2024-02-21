@@ -6,7 +6,7 @@ services:
     volumes:
       - ./src:/app
       - node_modules:/app/node_modules
-      - .next:/app/.next
+      - ./src/next:/app/.next
     # Node.jsのファイル監視機能→ファイルの変更を自動的に検知する
     environment:
       - WATCHPACK_POLLING=true
